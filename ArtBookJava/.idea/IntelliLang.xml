@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LanguageInjectionConfiguration">
+    <injection language="kotlin" injector-id="xml">
+      <display-name>resources</display-name>
+      <place>xmlTag().withLocalName(string().equalTo(&quot;resources&quot;))</place>
+    </injection>
+  </component>
+</project>
